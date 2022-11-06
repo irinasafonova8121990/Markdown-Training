@@ -57,10 +57,6 @@ git commit
 [^1]: SQL - декларативный язык программирования, применяемый для создания, модификации и управления данными в реляционной базе данных, управляемой соответствующей
 системой управления базами данных.
   
- [^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.
-  
 ## Математические символы
 <!--Добавить новык символы--> 
 ### Сложение
