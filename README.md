@@ -84,7 +84,7 @@ $\ alpha, \ Alpha, \ beta, \ Beta, \ gamma, \ Gamma, \ pi, \ Pi, \ phi, \ varphi
 ```
 $\sqrt`{9}$
 
-$\sqrt{\$16}$
+$\sqrt{\$16$}
 
 ### Прочее
 
