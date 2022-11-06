@@ -88,6 +88,8 @@ $\frac{n!}{k!(n-k)!}$
  <!--Решить проблемы с сылками https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls -> 
 ### Ссылки на таски
 
+#1
+
 irinasafonova8121990/Write-CV#1
 
 ## Таблицы
