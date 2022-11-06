@@ -81,34 +81,10 @@ $\ 12^{25}$
 
 $\frac{n!}{k!(n-k)!}$
   
-## Карта
+## Смайлы
 
- ```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-              [-80,45],
-              [-80,90],
-              [-95,90],
-              [-95,45],
-              [-90,45]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
+
+
 
 ## Ссылки
 ### Сайты
