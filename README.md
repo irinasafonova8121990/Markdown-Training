@@ -90,6 +90,8 @@ $\frac{n!}{k!(n-k)!}$
 #1
 
 irinasafonova8121990/Write-CV#1
+  
+- [ ] https://github.com/irinasafonova8121990/Markdown-Training/issues/1 🎉
 
 ## Таблицы
 
